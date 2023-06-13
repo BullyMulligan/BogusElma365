@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\bin\Debug\net7.0\BogusElma365.exe
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\bin\Debug\net7.0\BogusElma365.deps.json
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\bin\Debug\net7.0\BogusElma365.runtimeconfig.json
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\bin\Debug\net7.0\BogusElma365.dll
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\bin\Debug\net7.0\BogusElma365.pdb
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\bin\Debug\net7.0\Bogus.dll
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.AssemblyInfo.cs
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.csproj.CopyComplete
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.dll
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\refint\BogusElma365.dll
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.pdb
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\BogusElma365.genruntimeconfig.cache
+C:\Users\user\RiderProjects\BogusElma365\BogusElma365\obj\Debug\net7.0\ref\BogusElma365.dll
